@@ -10,11 +10,11 @@ A clone webpage of Codevo Ecommerce website of fashion. This webpage is built us
 ### Installation and Usage
 1. Clone the repository:
    ```
-   git clone https://github.com/voidsoul-host/Frontend-1-Module.git
+   git clone https://github.com/RavichandraYellenki/F1-test-Codevo_Ecommerce.git
    ```
 2. Open the project folder:
    ```
-   cd Frontend-1-Module
+   cd F1-ModuleTest
    ```
 3. Open `index.html` in your web browser to view the home page.
 
